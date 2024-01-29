@@ -1,3 +1,3 @@
 # AISurTech.github.io
 
-temp page for technical FAQ links and other misscelani
+PUBLIC REPO - do not post any proprietary code here. For posting technical FAQs and other documentation for users. Allows up to update links or documentation faster than we can update the main site.
